@@ -1,6 +1,6 @@
 # basic-express-server
 
-This does math functions but in Express!
+This is a basic Espress server that includes server modularization, use of middleware, and tests.
 
 ## Installation
 
@@ -25,6 +25,9 @@ params:
 
 ## URLs
 
+- [Main branch](https://basic-express-server-entg.onrender.com/)
+- [PR](https://github.com/KatKho/basic-express-server/pull/1)
+- [GitHub Actions](https://github.com/KatKho/basic-express-server/actions)
 
 ## Contributors
 
